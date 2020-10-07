@@ -1,0 +1,17 @@
+|Name:|Language:|Description:|Link:
+0|palindrome-check|None|Boolean method to check if string is palindrome|https://github.com/Moises1014/palindrome-check
+1|dynamic-array-|Java|A dynamic array from scratch|https://github.com/Moises1014/dynamic-array-
+2|Shoppingcart_algorithm|Python|algorithm for a shopping cart in python (backend)|https://github.com/Moises1014/Shoppingcart_algorithm
+3|search-keywords-shopify-websites-|Python|A backend program that gets shopify keywords from a website and returns to user, using beatifulsoup|https://github.com/Moises1014/search-keywords-shopify-websites-
+4|Spotify-Artist-top-10-songs|Python|Search any artist or band and it gives its top 10 songs according to the Spotify Api|https://github.com/Moises1014/Spotify-Artist-top-10-songs
+5|IP-and-Geological-Location|Python|This program lets you find the location of host or Ip you put in. It uses the Ipstack API and returns your answer as json or a dictionary|https://github.com/Moises1014/IP-and-Geological-Location
+6|web-scrapper-for-weather-forecast|Python|this web scrapper get the forecast for Miami, FL and then creates a csv file using pandas|https://github.com/Moises1014/web-scrapper-for-weather-forecast
+7|Encoder|C#|Framework for a c# program that encodes or decode a string of characters|https://github.com/Moises1014/Encoder
+8|DollarConverter|Java|None|https://github.com/Moises1014/DollarConverter
+9|PinWordNumerator|Java|This java program takes the number sequence the user gives and shows the word combination that it could be.|https://github.com/Moises1014/PinWordNumerator
+10|Worldclock|Java|Java program for world clock|https://github.com/Moises1014/Worldclock
+11|WordStats|C#|None|https://github.com/Moises1014/WordStats
+12|MarketSimmulations|Java|Program simulates stock market in java|https://github.com/Moises1014/MarketSimmulations
+13|MatchingGame|C++|This program in C++ is a matching a game. The client matches the shape with the same shape, if correct sound will play. After game over you get the percentage of rigth answers.|https://github.com/Moises1014/MatchingGame
+14|Appointment_Book|Java|A program in java that makes appointments and writes them in database|https://github.com/Moises1014/Appointment_Book
+15|hello-world|None|just another repository|https://github.com/Moises1014/hello-world
